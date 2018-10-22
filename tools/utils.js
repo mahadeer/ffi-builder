@@ -58,7 +58,8 @@ module.exports = {
         return config.addons.map(addon => {
             return {
                 "name": addon.alias || addon.name,
-                "fileName": addon.fileName
+                "fileName": addon.fileName,
+                "filePath": addon.lib
             };
         });
     }

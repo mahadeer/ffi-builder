@@ -1,5 +1,5 @@
 {
-  "name": "ffi-proxy",
+  "name": "ffi-builder",
   "version": "1.0.0",
   "description": "A wrapper on top of ffi package to use addons on Node.js projects.",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahadeer13/ffi-proxy.git"
+    "url": "git+https://github.com/mahadeer13/ffi-builder.git"
   },
   "keywords": [
     "ffi",
-    "ffi-factory",
-    "ffi-proxy"
+    "ffi-proxy",
+    "ffi-builder"
   ],
   "author": "Mahadeer Mohamed <mafyosis@gmail.com>",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/mahadeer13/ffi-proxy/issues"
+    "url": "https://github.com/mahadeer13/ffi-builder/issues"
   },
-  "homepage": "https://github.com/mahadeer13/ffi-proxy#readme",
+  "homepage": "https://github.com/mahadeer13/ffi-builder/wiki",
   "devDependencies": {
     "ansi-colors": "^3.1.0",
     "fs-extra": "^7.0.0",
