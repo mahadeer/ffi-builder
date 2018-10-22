@@ -21,7 +21,7 @@
     "url": "https://github.com/mahadeer13/ffi-builder/issues"
   },
   "homepage": "https://github.com/mahadeer13/ffi-builder/wiki",
-  "devDependencies": {
+  "dependencies": {
     "ansi-colors": "^3.1.0",
     "fs-extra": "^7.0.0",
     "node-run-cmd": "^1.0.1"
