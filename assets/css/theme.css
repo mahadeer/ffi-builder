@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Ubuntu-Regular;
+    src: url('../fonts/Ubuntu-Regular.ttf'); 
+}
+  
+@font-face {
+    font-family: Ubuntu-Bold;
+    src: url('../fonts/Ubuntu-Bold.ttf'); 
+}
+
+.bg-wraper {
+    background: linear-gradient(270deg, #fb5f7e, #031b41, #f2709c, #7474bf);
+    background-size: 800% 800%;
+    -webkit-animation: BackgroundAnimate 30s ease infinite;
+    -moz-animation: BackgroundAnimate 30s ease infinite;
+    animation: BackgroundAnimate 30s ease infinite;
+}
+
+@-webkit-keyframes BackgroundAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes BackgroundAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes BackgroundAnimate {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
