@@ -25,6 +25,8 @@ How to?
 * For a more detailed introduction to ffi-builder, see the [ffi-builder docs][wiki-link].
 * For a more detailed introduction to ffi, see the [node-ffi tutorial page][ffi-tutorial].
 
+You can also read on [homepage][pages].
+
 Requirements
 -------
 * Node.js
@@ -45,3 +47,4 @@ GNU General Public License v3.0. See `License` file.
 [ffi-factory-examples]: https://github.com/mahadeer13/ffi-factory-examples
 [ffi-tutorial]: https://github.com/node-ffi/node-ffi/wiki/Node-FFI-Tutorial
 [wiki-link]: https://github.com/mahadeer13/ffi-builder/wiki/ffi-builder-API-Reference
+[pages]: https://mahadeer13.github.io/ffi-builder/
